@@ -10,4 +10,4 @@ The game revolves around summoning servants as your main unit or powerhouse of t
 
 ## Feature 2: Command Seals (0%)
 
-A big part of the Fate universe is the idea of command seals. Typically denoted as 3 per servant summoned, a master had 3 commands that are to be performed by their servant with complete obedience. I intend to implement Command Seals as a way to act using instants in this game instead of the normal variation of having instant spells. That way you have to really think about the command seal cards (instants) you decide to play in a game.
+A big part of the Fate universe is the idea of command seals. Typically denoted as 3 per servant summoned, a master has 3 commands that are to be performed by their servant with complete obedience. I intend to implement Command Seals as a way to act using instants in this game instead of the normal variation of having instant spells. That way you have to really think about the command seal cards (instants) you decide to play in a game.
