@@ -18,7 +18,14 @@ The cards will have 3 main components: MP (Mana Points which is the cost), AP (A
 
 ### Feature 3: Card Keywords
 
-This will be a set of keywords for the special features that could be added to cards.
+This will be a set of keywords for the special features that could be added to cards or that cards may innately possess. Servants can also have these keywords attached to them, but they cannot gain keywords from cards that may grant keywords.
+
+- Stealth: The card will be hidden and only those who are stealth or have the vigilant trait can attack
+- Barrier: The card has X tokens of barrier added on to it's GP status. Barrier points are removed upon taking damage
+- Pierce: Half of a card's AP will go through a card's GP to directly attack a player's HP
+- Double-Strike: The current card will strike twice in a row on the same target. If the target is destroyed on the first strike then the card will strike the player directly
+- Taunt: The card with the taunt status will be forced to be block first before other cards can be blocked
+- Vigilant: This card can see through stealth units, Vigilant cards also gain +1 AP if they destroy a Stealth card
 
 ## Game Identity
 
